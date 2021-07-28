@@ -1,0 +1,22 @@
+form{
+  input{
+    margin-bottom: 1rem;
+    padding: 6px;
+    font-size: 18px;
+  }
+  ::placeholder{
+    color: rgb(0, 0, 0);
+  }
+}
+span{
+    color: rgb(0, 0, 0);
+}
+ul{
+  padding: 18px;
+  li{
+    text-align: center;
+    list-style-type: none;
+    font-size: 18px;
+    color: rgb(102, 102, 102);
+  }
+}
